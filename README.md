@@ -1,2 +1,2 @@
-# Use-ExoBegin-Units
+# Use ExoBegin Units
 Make use of Exogenesis units.
