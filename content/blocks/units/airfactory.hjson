@@ -1,0 +1,27 @@
+type: UnitFactory
+name: Air Factory
+description: Air Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: exogenesis-crystal-drone-healer  , time: 90, requirements: [] }
+	{ unit: exogenesis-disaccord             , time: 90, requirements: [] }
+	{ unit: exogenesis-centauri              , time: 90, requirements: [] }
+	{ unit: exogenesis-twilight              , time: 90, requirements: [] }
+	{ unit: exogenesis-battle                , time: 90, requirements: [] }
+	{ unit: exogenesis-universalis           , time: 90, requirements: [] }
+	{ unit: exogenesis-war                   , time: 90, requirements: [] }
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true

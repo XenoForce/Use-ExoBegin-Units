@@ -1,0 +1,6 @@
+type: flying
+flying: true
+
+speed: 3.5
+
+alwaysUnlocked: true

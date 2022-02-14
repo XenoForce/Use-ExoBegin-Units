@@ -1,0 +1,28 @@
+type: UnitFactory
+name: Sky Factory
+description: Sky Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+	
+plans: [
+	{ unit: exogenesis-dash         , time: 90, requirements: [] }
+	{ unit: exogenesis-5-prime      , time: 90, requirements: [] }
+	{ unit: exogenesis-zoom         , time: 90, requirements: [] }
+	{ unit: exogenesis-orca         , time: 90, requirements: [] }
+	{ unit: exogenesis-magnapinna   , time: 90, requirements: [] }
+	{ unit: exogenesis-6-apex       , time: 90, requirements: [] }
+	{ unit: exogenesis-hurtle       , time: 90, requirements: [] }
+	{ unit: exogenesis-apotheosis   , time: 90, requirements: [] }
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true
