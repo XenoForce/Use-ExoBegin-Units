@@ -1,0 +1,7 @@
+name: use-exobegin-units
+displayName: Use ExoBegin Units
+author: XenoTale
+description: Make use of Exogenesis units.
+version: "1.0"
+minGameVersion: "135"
+dependencies: [ exogenesis ]
