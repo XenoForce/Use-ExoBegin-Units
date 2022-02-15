@@ -13,6 +13,7 @@ plans: [
 	{ unit: exogenesis-disaccord             , time: 90, requirements: [] }
 	{ unit: exogenesis-centauri              , time: 90, requirements: [] }
 	{ unit: exogenesis-twilight              , time: 90, requirements: [] }
+	{ unit: exogenesis-altair                , time: 90, requirements: [] }
 	{ unit: exogenesis-battle                , time: 90, requirements: [] }
 	{ unit: exogenesis-universalis           , time: 90, requirements: [] }
 	{ unit: exogenesis-war                   , time: 90, requirements: [] }
