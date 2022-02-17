@@ -13,6 +13,7 @@ plans: [
 	{ unit: exogenesis-PT-anomaly    , time: 90, requirements: [] }
 	{ unit: exogenesis-assault       , time: 90, requirements: [] }
 	{ unit: exogenesis-epoch         , time: 90, requirements: [] }
+	{ unit: exogenesis-eternity      , time: 90, requirements: [] }
 	{ unit: exogenesis-sagittarius   , time: 90, requirements: [] }
 	{ unit: exogenesis-p-primordial  , time: 90, requirements: [] }
 ]
