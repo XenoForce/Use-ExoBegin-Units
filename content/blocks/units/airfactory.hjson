@@ -10,9 +10,9 @@ consumes: {}
 
 plans: [
 	{ unit: exogenesis-crystal-drone-healer  , time: 90, requirements: [] }
+	{ unit: exogenesis-guardian              , time: 90, requirements: [] }
 	{ unit: exogenesis-disaccord             , time: 90, requirements: [] }
 	{ unit: exogenesis-b05-centauri          , time: 90, requirements: [] }
-	{ unit: exogenesis-twilight              , time: 90, requirements: [] }
 	{ unit: exogenesis-b06-altair            , time: 90, requirements: [] }
 	{ unit: exogenesis-battle                , time: 90, requirements: [] }
 	{ unit: exogenesis-b07-universalis       , time: 90, requirements: [] }
@@ -23,6 +23,6 @@ requirements: []
 buildCostMultiplier: 0.1
 
 category: units
-research: duo
+research: gndfactory
 
 alwaysUnlocked: true
