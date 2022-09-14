@@ -9,7 +9,7 @@ itemCapacity: 30
 consumes: {}
 
 plans: [
-	{ unit: exogenesis-b-sirius      , time: 90, requirements: [] }
+	{ unit: exogenesis-b05-sirius    , time: 90, requirements: [] }
 	{ unit: exogenesis-PT-anomaly    , time: 90, requirements: [] }
 	{ unit: exogenesis-assault       , time: 90, requirements: [] }
 	{ unit: exogenesis-epoch         , time: 90, requirements: [] }
