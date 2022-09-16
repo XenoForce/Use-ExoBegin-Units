@@ -11,11 +11,12 @@ consumes: {}
 plans: [
 	{ unit: exogenesis-crystal-drone-healer  , time: 90, requirements: [] }
 	{ unit: exogenesis-guardian              , time: 90, requirements: [] }
-	{ unit: exogenesis-disaccord             , time: 90, requirements: [] }
 	{ unit: exogenesis-b05-centauri          , time: 90, requirements: [] }
 	{ unit: exogenesis-b06-altair            , time: 90, requirements: [] }
-	{ unit: exogenesis-battle                , time: 90, requirements: [] }
 	{ unit: exogenesis-b07-universalis       , time: 90, requirements: [] }
+	{ unit: exogenesis-disaccord             , time: 90, requirements: [] }    //disaccord.name = Vancor
+	{ unit: exogenesis-contention            , time: 90, requirements: [] }    //contention.name = Arvan
+	{ unit: exogenesis-battle                , time: 90, requirements: [] }    //battle.name = Varcaun
 	{ unit: exogenesis-war                   , time: 90, requirements: [] }
 ]
 
