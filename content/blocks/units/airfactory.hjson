@@ -11,6 +11,7 @@ consumes: {}
 plans: [
 	{ unit: exogenesis-crystal-drone-healer  , time: 90, requirements: [] }
 	{ unit: exogenesis-guardian              , time: 90, requirements: [] }
+	{ unit: exogenesis-b03-kentaurus         , time: 90, requirements: [] }
 	{ unit: exogenesis-b05-centauri          , time: 90, requirements: [] }
 	{ unit: exogenesis-b06-altair            , time: 90, requirements: [] }
 	{ unit: exogenesis-b07-universalis       , time: 90, requirements: [] }
