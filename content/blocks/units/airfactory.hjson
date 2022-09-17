@@ -15,10 +15,13 @@ plans: [
 	{ unit: exogenesis-b05-centauri          , time: 90, requirements: [] }
 	{ unit: exogenesis-b06-altair            , time: 90, requirements: [] }
 	{ unit: exogenesis-b07-universalis       , time: 90, requirements: [] }
-	{ unit: exogenesis-disaccord             , time: 90, requirements: [] }    //disaccord.name = Vancor
-	{ unit: exogenesis-contention            , time: 90, requirements: [] }    //contention.name = Arvan
-	{ unit: exogenesis-battle                , time: 90, requirements: [] }    //battle.name = Varcaun
-	{ unit: exogenesis-war                   , time: 90, requirements: [] }
+	
+	{ unit: exogenesis-debate                , time: 90, requirements: [] }    // Elecian: (health:     3,480) (aka: Velten)
+	{ unit: exogenesis-disagreement          , time: 90, requirements: [] }    // Elecian: (health:    13,800) (aka: Ravux)
+	{ unit: exogenesis-disaccord             , time: 90, requirements: [] }    // Elecian: (health:    28,400) (aka: Vancor)
+	{ unit: exogenesis-contention            , time: 90, requirements: [] }    // Elecian: (health:    74,000) (aka: Arvan)
+	{ unit: exogenesis-battle                , time: 90, requirements: [] }    // Elecian: (health:   154,080) (aka: Varcaun)
+	{ unit: exogenesis-war                   , time: 90, requirements: [] }    // Elecian: (health: 2,000,000) (aka: War)
 ]
 
 requirements: []
