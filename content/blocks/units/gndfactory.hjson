@@ -9,22 +9,32 @@ itemCapacity: 30
 consumes: {}
 
 plans: [
-	{ unit: exogenesis-pteris        , time: 90, requirements: [] }
-	{ unit: exogenesis-irises        , time: 90, requirements: [] }
-	{ unit: exogenesis-aster         , time: 90, requirements: [] }
-	{ unit: exogenesis-b05-sirius    , time: 90, requirements: [] }
-	{ unit: exogenesis-sagittarius   , time: 90, requirements: [] }
+	{ unit: exogenesis-pteris        , time: 90, requirements: [] }    // Quantra: Mech (health:    560)
+	{ unit: exogenesis-irises        , time: 90, requirements: [] }    // Quantra: Mech (health:    790)
+	{ unit: exogenesis-aster         , time: 90, requirements: [] }    // Quantra: Mech (health:  1,000)
+	{ unit: exogenesis-urtica        , time: 90, requirements: [] }    // Quantra: Mech (health:  7,000)
+	{ unit: exogenesis-thymus        , time: 90, requirements: [] }    // Quantra: Mech (health: 16,000)
 	
-	{ unit: exogenesis-strife        , time: 90, requirements: [] }
-	{ unit: exogenesis-combat        , time: 90, requirements: [] }
-	{ unit: exogenesis-hostile       , time: 90, requirements: [] }
-	{ unit: exogenesis-assault       , time: 90, requirements: [] }
-	{ unit: exogenesis-bloodshed     , time: 90, requirements: [] }
+	{ unit: exogenesis-b05-sirius    , time: 90, requirements: [] }    // Genesux: Legs (health:     45,000)
+	{ unit: exogenesis-b06-eros      , time: 90, requirements: [] }    // Genesux: Legs (health:     79,800)
+	{ unit: exogenesis-b07-atlas     , time: 90, requirements: [] }    // Genesux: Legs (health:    190,000)
+	{ unit: exogenesis-sagittarius   , time: 90, requirements: [] }    // Genesux: Legs (health: 14,390,000)
 	
-	{ unit: exogenesis-lava          , time: 90, requirements: [] }    //Solrun: Mech
-	{ unit: exogenesis-eruption      , time: 90, requirements: [] }    //Solrun: Mech
-	{ unit: exogenesis-volcanic      , time: 90, requirements: [] }    //Solrun: Tank
-	{ unit: exogenesis-arcturus      , time: 90, requirements: [] }    //Solrun: Legs  (aka: Asthenos)
+	{ unit: exogenesis-strife        , time: 90, requirements: [] }    // Elecian: Legs (health:   2,190)
+	{ unit: exogenesis-combat        , time: 90, requirements: [] }    // Elecian: Legs (health:   8,390)
+	{ unit: exogenesis-hostile       , time: 90, requirements: [] }    // Elecian: Legs (health:  54,890)
+	{ unit: exogenesis-assault       , time: 90, requirements: [] }    // Elecian: Legs (health:  78,700)
+	{ unit: exogenesis-bloodshed     , time: 90, requirements: [] }    // Elecian: Legs (health: 178,900)
+	
+	{ unit: exogenesis-magma         , time: 90, requirements: [] }    // Solrun: Tank (health:     4,800)
+	{ unit: exogenesis-radiative     , time: 90, requirements: [] }    // Solrun: Mech (health:     9,500)
+	{ unit: exogenesis-lava          , time: 90, requirements: [] }    // Solrun: Mech (health:     9,800)
+	{ unit: exogenesis-eruption      , time: 90, requirements: [] }    // Solrun: Mech (health:    50,000)
+	{ unit: exogenesis-core          , time: 90, requirements: [] }    // Solrun: Mech (health:    50,000)
+	{ unit: exogenesis-fusion        , time: 90, requirements: [] }    // Solrun: Mech (health:    66,000)
+	{ unit: exogenesis-volcanic      , time: 90, requirements: [] }    // Solrun: Tank (health:    70,000)
+	{ unit: exogenesis-collapse      , time: 90, requirements: [] }    // Solrun: Legs (health:   250,000)
+	{ unit: exogenesis-arcturus      , time: 90, requirements: [] }    // Solrun: Legs (health: 5,300,000)  (aka: Asthenos)
 ]
 
 requirements: []
