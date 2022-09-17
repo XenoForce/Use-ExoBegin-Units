@@ -13,8 +13,18 @@ plans: [
 	{ unit: exogenesis-irises        , time: 90, requirements: [] }
 	{ unit: exogenesis-aster         , time: 90, requirements: [] }
 	{ unit: exogenesis-b05-sirius    , time: 90, requirements: [] }
-	{ unit: exogenesis-assault       , time: 90, requirements: [] }
 	{ unit: exogenesis-sagittarius   , time: 90, requirements: [] }
+	
+	{ unit: exogenesis-strife        , time: 90, requirements: [] }
+	{ unit: exogenesis-combat        , time: 90, requirements: [] }
+	{ unit: exogenesis-hostile       , time: 90, requirements: [] }
+	{ unit: exogenesis-assault       , time: 90, requirements: [] }
+	{ unit: exogenesis-bloodshed     , time: 90, requirements: [] }
+	
+	{ unit: exogenesis-lava          , time: 90, requirements: [] }
+	{ unit: exogenesis-eruption      , time: 90, requirements: [] }
+	{ unit: exogenesis-volcanic      , time: 90, requirements: [] }
+	{ unit: exogenesis-arcturus      , time: 90, requirements: [] }    //aka: Asthenos
 ]
 
 requirements: []
