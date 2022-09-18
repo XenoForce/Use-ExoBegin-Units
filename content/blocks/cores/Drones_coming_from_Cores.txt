@@ -1,0 +1,23 @@
+Cores  -->  Worker Drone:
+------------------------
+
+Bulwark Core         -->  Helios
+
+Divinity Core        -->  Asgard
+
+Gamma Core (aka: Quantum Core)   -->  Guardian
+
+Genesis Central      -->  Twinkle
+
+Genesis Nexus        -->  Starlight
+
+Genesis Titan Core   -->  Stardust-Voyager
+
+
+-----------------------------------------------
+One Unused Drone:
+----------------
+
+"stormfront-ruler"
+
+<End>
