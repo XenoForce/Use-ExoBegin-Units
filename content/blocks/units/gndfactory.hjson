@@ -16,9 +16,9 @@ plans: [
 	{ unit: exogenesis-thymus        , time: 90, requirements: [] }    // Quantra: Mech (health: 16,000)
 	
 	{ unit: exogenesis-b05-sirius    , time: 90, requirements: [] }    // Genesux: Legs (health:     45,000)
-	{ unit: exogenesis-b06-eros      , time: 90, requirements: [] }    // Genesux: Legs (health:     79,800)
-	{ unit: exogenesis-b07-atlas     , time: 90, requirements: [] }    // Genesux: Legs (health:    190,000)
-	{ unit: exogenesis-sagittarius   , time: 90, requirements: [] }    // Genesux: Legs (health: 14,390,000)
+	{ unit: exogenesis-b06-eros      , time: 90, requirements: [] }    // Genesux: Legs (health:     79,800)  (aka: Enceladus)
+	{ unit: exogenesis-b07-atlas     , time: 90, requirements: [] }    // Genesux: Legs (health:    190,000)  (aka: Orion)
+	{ unit: exogenesis-sagittarius   , time: 90, requirements: [] }    // Genesux: Legs (health: 14,390,000)  (aka: Avetronox)
 	
 	{ unit: exogenesis-strife        , time: 90, requirements: [] }    // Elecian: Legs (health:   2,190)
 	{ unit: exogenesis-combat        , time: 90, requirements: [] }    // Elecian: Legs (health:   8,390)

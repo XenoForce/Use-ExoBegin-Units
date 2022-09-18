@@ -9,7 +9,7 @@ itemCapacity: 30
 consumes: {}
 
 plans: [
-	{ unit: exogenesis-crystal-drone-healer  , time: 90, requirements: [] }
+	{ unit: exogenesis-crystal-drone-healer  , time: 90, requirements: [] }    // (aka: Healing Drone)
 	{ unit: exogenesis-guardian              , time: 90, requirements: [] }
 	{ unit: exogenesis-b03-kentaurus         , time: 90, requirements: [] }
 	{ unit: exogenesis-b05-centauri          , time: 90, requirements: [] }
