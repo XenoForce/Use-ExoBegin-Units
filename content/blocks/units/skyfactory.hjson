@@ -9,7 +9,16 @@ itemCapacity: 30
 consumes: {}
 
 plans: [
-	{ unit: exogenesis-apotheosis   , time: 90, requirements: [] }
+	{ unit: exogenesis-crystal-drone-healer  , time: 90, requirements: [] }    // (aka: Healing Drone)
+	{ unit: exogenesis-asgard                , time: 90, requirements: [] }    // Worker drone.
+	{ unit: exogenesis-guardian              , time: 90, requirements: [] }    // Worker drone.
+	{ unit: exogenesis-helios                , time: 90, requirements: [] }    // Worker drone.
+	{ unit: exogenesis-stardust-voyager      , time: 90, requirements: [] }    // Worker drone.
+	{ unit: exogenesis-starlight             , time: 90, requirements: [] }    // Worker drone.
+	{ unit: exogenesis-stormfront-ruler      , time: 90, requirements: [] }    // Worker drone.
+	{ unit: exogenesis-twinkle               , time: 90, requirements: [] }    // Worker drone.
+	
+	{ unit: exogenesis-apotheosis            , time: 90, requirements: [] }    // Originally was a navy ship.
 ]
 
 requirements: []
