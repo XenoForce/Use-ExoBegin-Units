@@ -5,13 +5,13 @@ Make use of Exogenesis units.
 
 **IMPORTANT NOTICE:**
 
-  This mod does NOT break the license specified and used by AureusStratus.
+    This mod does NOT break the license specified and used by AureusStratus.
 
-  The license from AureusStratus currently says: "Dont us my sprites without permission".
+    The license from AureusStratus currently says: "Dont us my sprites without permission".
 
-  This mod does NOT break that rule, because this mod contains NONE of those sprites.
+    This mod does NOT break that rule, because this mod contains NONE of those sprites.
 
-  All the sprites belonging to AureusStratus live safely in their own mod, and only there.
+    All the sprites belonging to AureusStratus live safely in their own mod, and only there.
 
 <br>
 
