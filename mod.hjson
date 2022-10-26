@@ -1,15 +1,15 @@
 name: use-exobegin-units
-displayName: Use ExoBegin Units
-author: XenoTale
+displayName: Exogenesis Units - Liberated
+author: goldie
 description:
         '''
         
-        Make use of Exogenesis units.
+        Easy access to Exogenesis units.
         
         (Please see Important Information on the repo page of this mod.)
         '''
         
-version: "1.3.3"
+version: "1.3.4"
 minGameVersion: "136"
 dependencies: [ exogenesis ]
-hideBrowser: true
+hideBrowser: false
