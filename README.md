@@ -1,5 +1,5 @@
-# Use ExoBegin Units
-Make use of Exogenesis units.
+# Exogenesis Units - Liberated
+Easy access to Exogenesis units.
 
 <br>
 
@@ -51,7 +51,5 @@ I hope you enjoy this mod, and have fun with it.
 
 <br>
 
-**Credits:**
-
-All credit goes to AureusStratus (ExoGenesis) of github URL:
+The original ExoGenesis mod can be found here:
 https://github.com/AureusStratus/ExoGenesis
